@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello my name is Diego Solis and this is a friends app I developed following
+a tutorial by John Elder.
 
-Things you may want to cover:
+Follow him at Codemy.com
 
-* Ruby version
+# Follow me:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Github : disc3110
+Twitter : disc3110
